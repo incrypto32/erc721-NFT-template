@@ -1,2 +1,2 @@
-# erc20-template
-ERC20 Token Template with hardhat
+# erc721-template
+ERC721 NFT template
